@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AlaskaCo Staging.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>54</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>73EE9D971BA519F0AF415A17CE69678121A659A8</string>
+				<key>dateExpires</key>
+				<string>23/09/2023</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>73EE9D971BA519F0AF415A17CE69678121A659A8</string>
+						<key>dateExpires</key>
+						<string>23/09/2023</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Qualtrics.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>77BQDRD4JH</string>
+						<key>name</key>
+						<string>The North West Company (International) Inc.</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>2.1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>77BQDRD4JH.com.northwest.alaskacommercial.staging</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>applinks:alaskacommercialappstaging.page.link</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>77BQDRD4JH</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>AlaskaCo Staging.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>67c02def-01b2-4c7b-b3ec-2194085f681a</string>
+				<key>dateExpires</key>
+				<string>26/10/2023</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.northwest.alaskacommercial.staging</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>77BQDRD4JH</string>
+				<key>name</key>
+				<string>The North West Company (International) Inc.</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.5</string>
+		</dict>
+	</array>
+</dict>
+</plist>
